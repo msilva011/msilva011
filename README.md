@@ -1,16 +1,17 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msilva011&show_icons=true&theme=radical)
-<!--
-**msilva011/msilva011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou a May 👋
 
-Here are some ideas to get you started:
+- 🔭 Trabalho hoje no suporte tecnico de uma Software CRM - Atendimento ao Cliente;
+- 🌱 Estou aprendendo React e aprofundando javascript e python;
+- 💻 Atualmente estou desenvolvendo para projetos acadêmicos em C (matéria de Compiladores) e Python. Este ultimo devido ao TCC com Deep Learning;
+- 📫 How to reach me: https://www.linkedin.com/in/mayara-silva011
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msilva011&show_icons=true&theme=midnight-purple)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
