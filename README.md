@@ -17,4 +17,4 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-![Snake animation](https://github.com/msilva011/msilva011/bloob/output/github-contribution-grid-snake.svg))
+![snake gif](https://github.com/msilva011/msilva011/blob/output/github-contribution-grid-snake.gif)
