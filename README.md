@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b13583&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+May;Tenho+24+anos;Curso+Bacharelado+em+Ciência+da+Computação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=msilva011&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=msilva011&show_icons=true&theme=midnight-purple" alt="Mayara Silva github stats" /> 
